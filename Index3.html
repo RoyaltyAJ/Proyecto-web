@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glosario</title>
+    <h1 id="glosariocolor"><center>Glosario</center></h1>
+    <link rel="stylesheet" href="/css/estilos.css" type="text/css">
+</head>
+<body>
+    <header>
+        <div>
+            <ul>
+                <li> <a href="Index4.html" id="glosariosagregados">Terminos agregados</a></li>
+            </ul>
+        </div>
+    </header>
+    <form onsubmit="salida()">
+    <fieldset id="principal1">
+        <label for="Agregar termino">Agregar termino:</label>
+                <ul>
+                    <label for="termino">Termino:</label>
+                    <input type="text" id="TERMINO">
+                </ul>
+                <ul>
+                    <label for="definicion">Definicion de terminos:</label>
+                    <textarea name="definicion" id="DEFINICION" cols="30" rows="10" placeholder="definicion de terminos"></textarea>
+                </ul>
+                <ul>
+                    <input type="submit" value="publicar" id="boton2">
+                </ul>
+    </fieldset>
+        </form>
+    <script src="/js/glosario.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,64 @@
+#proyectodecabecera {
+    background-color: cyan;
+    margin-bottom: auto;
+}
+
+#boton {
+    background-color: crimson;
+
+}
+
+#boton2 {
+    background-color: crimson;
+}
+
+#comentario {
+    background-color: papayawhip;
+}
+
+#articulos {
+    background-color: cyan;
+}
+
+#barraarti {
+    background-color: rgb(255, 255, 255);
+    display:inline;
+    
+}
+
+#barraglo {
+    background-color: rgb(255, 255, 255);
+    display:inline;
+}
+
+#glosariocolor {
+    background-color: cyan;
+}
+
+#glosariosagregados {
+    background-color: tomato;
+}
+
+#principal1 { 
+    background-color: papayawhip;
+}
+
+#terminosestilos {
+    background-color: tomato;
+}
+
+#listados {
+    background-color: cyan;
+}
+
+#listas1 {
+    background-color:papayawhip;
+}
+
+#terminoagregado {
+    background-color: cyan;
+}
+
+#datos {
+    background-color: tomato;
+}
